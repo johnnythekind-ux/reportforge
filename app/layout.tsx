@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ReportForge",
+  title: "ReportForge - AI Report Builder",
   description: "Generate structured AI-powered reports in seconds.",
 };
 
