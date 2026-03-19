@@ -144,7 +144,7 @@ const exportPDF = async () => {
   const opt = {
     margin: [20, 20, 20, 20] as [number, number, number, number],
     filename: "report.pdf",
-    image: { type: "jpeg", quality: 0.98 },
+    image: { type: "jpeg" as "jpeg", quality: 0.98 },
     html2canvas: { scale: 2 },
     jsPDF: { unit: "mm", format: "a4", orientation: "portrait" },
   };
