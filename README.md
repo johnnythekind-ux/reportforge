@@ -109,26 +109,31 @@ It demonstrates the ability to build:
 ```bash
 npm install
 npm run dev
+```
 
 ## 📸 Screenshots
 
 ### 🏠 Builder (Empty State)
-![Home](screenshots/home.png)
+
+![Home](public/screenshots/home.png)
 
 ---
 
 ### ⚙️ Generating Report
-![Loading](screenshots/loading.png)
+
+![Loading](public/screenshots/loading.png)
 
 ---
 
 ### 📄 Generated Report
-![Report](screenshots/report.png)
+
+![Report](public/screenshots/report.png)
 
 ---
 
 ### 📊 Recent Reports
-![History](screenshots/history.png)
+
+![History](public/screenshots/history.png)
 
 ---
 
