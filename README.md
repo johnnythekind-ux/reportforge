@@ -8,6 +8,8 @@
 
 ReportForge is a full-stack application that allows users to generate structured reports using AI.
 
+> ⚠️ Note: This demo uses a shared dataset (no authentication yet). All generated reports are visible in the global history view.
+
 Users can input a topic, audience, tone, and context, and receive a formatted report with sections like:
 
 - Executive Summary
